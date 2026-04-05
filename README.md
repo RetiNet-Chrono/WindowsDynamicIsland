@@ -1,0 +1,2 @@
+# WindowsDynamicIsland
+一个转为Windows平台开发的便携,轻量化的灵动岛项目
