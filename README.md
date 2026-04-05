@@ -4,7 +4,7 @@
 
 一个专为 **Windows** 平台开发的**轻量、便携**的“灵动岛”工具，使用 **C++** 和原生 **Win32 API** 实现，**无任何第三方库**。
 
-项目借鉴了 [Python-island](https://github.com/Python-island/Python-island)，在保持易用性的基础上增加了 **SMTC 媒体信息捕获**功能，带来更流畅的使用体验。
+项目借鉴了 [Python-island](https://github.com/Python-island/Python-island)，在保持易用性的基础上带来更流畅的使用体验。
 
 ## 项目特点
 
