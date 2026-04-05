@@ -1,7 +1,8 @@
 # WindowsDynamicIsland
 ## 项目介绍:
 一个专为**Windows**平台开发的***便携，轻量化***的灵动岛项目，使用C++开发。使用原生Win32API，无第三方库
-项目借鉴https://github.com/Python-island/Python-island，给你带来更好使用的体验，同时加入了SMTC，支持捕获媒体信息
+项目借鉴https://github.com/Python-island/Python-island
+给你带来更好使用的体验，同时加入了SMTC，支持捕获媒体信息
 ## 项目特点:
 1.单文件源代码，1200行手搓Win32窗口，包含**动画，基础控件等**，适合用于学习、了解底层开发
 2.极致轻量，**无第三方库**，单文件仅41kb，可执行文件仅**70kb**，适配多种编译器
